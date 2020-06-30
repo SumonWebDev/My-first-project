@@ -32,7 +32,8 @@ img{
     background-position: center;
 }
 section{
-    height:700px;
+    height:500px;
+    width: 700px;
 }
 .putu{
     text-decoration: none;
@@ -46,4 +47,9 @@ section{
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
+}
+.dalia{
+    width:30%;
+    float:left;
+   
 }
