@@ -1,0 +1,26 @@
+h1{
+    font-size:50px;
+}
+.high-light{
+    color: orange;
+}
+.click{
+    border: 1px solid orange;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 5px;
+    background-color: yellowgreen;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    width:80%;
+}
+.alia{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+
+}
