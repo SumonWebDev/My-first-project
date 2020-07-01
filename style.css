@@ -23,6 +23,7 @@ img{
     width: 40%;
     margin-left: 5%;
     padding-left: 3%;
+  
 
 }
 .background-highlight{
@@ -30,10 +31,12 @@ img{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+   
 }
 section{
     height:500px;
     width: 700px;
+    margin: auto;
 }
 .putu{
     text-decoration: none;
@@ -51,5 +54,4 @@ section{
 .dalia{
     width:30%;
     float:left;
-   
 }
