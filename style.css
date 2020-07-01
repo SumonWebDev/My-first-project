@@ -71,5 +71,7 @@ section{
 .kutu{
     background-image: url('footer-bg.png');
     background-repeat: no-repeat;
-    background-size: cover;
 }
+    h2{
+        color:orange;
+    }
