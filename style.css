@@ -68,3 +68,8 @@ section{
     color: red;
 
 }
+.kutu{
+    background-image: url('footer-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
