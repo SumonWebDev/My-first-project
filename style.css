@@ -55,3 +55,16 @@ section{
     width:30%;
     float:left;
 }
+.nolia{
+    color:blueviolet;
+}
+.work{
+    color: cornflowerblue;
+}
+.midle{
+    text-align: center;
+    border: 1px solid green;
+    background-color: cornsilk;
+    color: red;
+
+}
