@@ -36,7 +36,7 @@ img{
 section{
     height:500px;
     width: 700px;
-    margin: auto;
+    margin:auto;
 }
 .putu{
     text-decoration: none;
@@ -71,7 +71,5 @@ section{
 .kutu{
     background-image: url('footer-bg.png');
     background-repeat: no-repeat;
+    background-size: cover;
 }
-    h2{
-        color:orange;
-    }
